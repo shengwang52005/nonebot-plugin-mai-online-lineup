@@ -1,16 +1,10 @@
 
 
-# **nonebot-plugin-mai-online-lineup**
+# 							<div align='center' ><font size='70'>**nonebot-plugin-mai-online-lineup**</font></div>
 
-_✨ 舞萌机台线上排卡插件 ✨_
+​																											_✨ 舞萌机台线上排卡插件 ✨_
 
-<a href="./LICENSE">
-    <img src="https://img.shields.io/github/license/owner/nonebot-plugin-template.svg" alt="license">
-</a>
-<a href="https://pypi.python.org/pypi/nonebot-plugin-template">
-    <img src="https://img.shields.io/pypi/v/nonebot-plugin-template.svg" alt="pypi">
-</a>
-<img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="python">
+License:MIT 																					Python:支持Nonebot的版本皆可 																			Pypi:[点击查看](https://pypi.org/project/nonebot-plugin-mai-online-lineup/)
 
 ## 📖 介绍
 
@@ -28,7 +22,7 @@ _✨ 舞萌机台线上排卡插件 ✨_
 <summary>使用 nb-cli 安装</summary>
 在 nonebot2 项目的根目录下打开命令行, 输入以下指令即可安装
 
-    nb plugin install nonebot-plugin-template
+    nb plugin install nonebot-plugin-mai-online-lineup
 
 </details>
 
@@ -39,27 +33,28 @@ _✨ 舞萌机台线上排卡插件 ✨_
 <details>
 <summary>pip</summary>
 
-    pip install nonebot-plugin-template
+    pip install nonebot-plugin-mai-online-lineup
 </details>
 <details>
 <summary>pdm</summary>
 
-    pdm add nonebot-plugin-template
+    pdm add nonebot-plugin-mai-online-lineup
 </details>
 <details>
 <summary>poetry</summary>
 
-    poetry add nonebot-plugin-template
+    poetry add nonebot-plugin-mai-online-lineup
 </details>
+
 <details>
 <summary>conda</summary>
 
-    conda install nonebot-plugin-template
+    conda install nonebot-plugin-mai-online-lineup
 </details>
 
 打开 nonebot2 项目根目录下的 `pyproject.toml` 文件, 在 `[tool.nonebot]` 部分追加写入
 
-    plugins = ["nonebot_plugin_template"]
+    plugins = ["nonebot-plugin-mai-online-lineup"]
 
 </details>
 
@@ -85,6 +80,3 @@ _✨ 舞萌机台线上排卡插件 ✨_
 | 排卡现状 机厅名称 | 群员 | 否 | 群聊 | 展示当前机厅排卡队列 |
 | 退勤 | 群员 | 否 | 群聊 | 将您从排卡队列移出 |
 | 闭店 机厅名称 | 群管、主人 | 否 | 群聊 | 清空当前机厅排卡队列，**只有管理员能够使用此功能** |
-### 效果图
-
-如果有效果图的话
