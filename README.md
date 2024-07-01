@@ -2,9 +2,9 @@
 
 # 							<div align='center' ><font size='70'>**nonebot-plugin-mai-online-lineup**</font></div>
 
-​																											_✨ 舞萌机台线上排卡插件 ✨_
+<div align='center'>✨ 舞萌机台线上排卡插件 ✨</div>
 
-License:MIT 																					Python:支持Nonebot的版本皆可 																			Pypi:[点击查看](https://pypi.org/project/nonebot-plugin-mai-online-lineup/)
+<div align='center'>License:MIT | Python:支持Nonebot的版本皆可 | Pypi:<a href="https://pypi.org/project/nonebot-plugin-mai-online-lineup/">点击查看</a></div>
 
 ## 📖 介绍
 
@@ -64,6 +64,8 @@ License:MIT 																					Python:支持Nonebot的版本皆可 											
 
 实在需要手动配置可以看插件底下的data.json
 
+data.json将会在第一次使用时自动填充数据
+
 ## 🎉 使用
 ### 指令表
 
@@ -80,3 +82,7 @@ License:MIT 																					Python:支持Nonebot的版本皆可 											
 | 排卡现状 机厅名称 | 群员 | 否 | 群聊 | 展示当前机厅排卡队列 |
 | 退勤 | 群员 | 否 | 群聊 | 将您从排卡队列移出 |
 | 闭店 机厅名称 | 群管、主人 | 否 | 群聊 | 清空当前机厅排卡队列，**只有管理员能够使用此功能** |
+
+## ❤ 鸣谢
+
+[Yzfoil/nonebot_plugin_maimai_go_down_system](https://github.com/Yzfoil/nonebot_plugin_maimai_go_down_system)
