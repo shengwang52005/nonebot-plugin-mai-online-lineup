@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "nonebot-plugin-mai-online-lineup"
+version = "0.1.0"
+description = "本插件基于nonebot2编写，用于机厅人数较多却又没有线下排卡板或者认为线下排卡较为繁琐的情况，进行赛博排卡"
+authors = ["shengwang52005 <shengwang52005@163.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+nonebot = "^2.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
