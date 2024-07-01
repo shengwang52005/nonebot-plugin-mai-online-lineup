@@ -11,8 +11,8 @@ from nonebot.permission import SUPERUSER
 
 
 __plugin_meta__ = PluginMetadata(
-    name="godownsystem",
-    description="实现maimai上下机排队功能",
+    name="mai-online-lineup",
+    description="舞萌机台线上排卡插件",
     usage="",
     config=Config,
 )
