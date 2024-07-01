@@ -11,7 +11,7 @@ from nonebot.permission import SUPERUSER
 
 
 __plugin_meta__ = PluginMetadata(
-    name="mai-online-lineup",
+    name="nonebot-plugin-mai-online-lineup",
     description="舞萌机台线上排卡插件",
     usage="",
     config=Config,
